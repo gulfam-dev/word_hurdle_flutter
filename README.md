@@ -1,16 +1,7 @@
 # word_hurdle_flutter
 
 A new Flutter project.
+![Screenshot_20250116_163244](https://github.com/user-attachments/assets/5a5b8f44-a3bd-422f-aa60-d5ca7b2fe73a)
+![Screenshot_20250116_163315](https://github.com/user-attachments/assets/7b48accd-bc59-4bde-bdd7-2847c9ce47bd)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
